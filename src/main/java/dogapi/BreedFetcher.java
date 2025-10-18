@@ -25,4 +25,5 @@ public interface BreedFetcher {
             super(message, cause);
         }
     }
+
 }
